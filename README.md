@@ -30,11 +30,3 @@ _We want you to get the most out of this project—it's all about learning, cont
 - **Discover By topic categories:** **Discover by Topic Categories**: Explore diverse travel experiences categorized by travel, nature, city, Adventure and Beaches..
   
 <hr>
-
-<div>
-  <h2><img src="https://github.com/Meetjain1/wanderlust/assets/133582566/90f3930e-5a12-4a4e-8ac9-0dc7d5396adb" width="35" height="35"> Ready to Contribute?</h2>
-</div>
-
->
-</a>
-</div>
